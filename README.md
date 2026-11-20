@@ -100,6 +100,8 @@ The following graph shows the frequency-domain comparison of the two audio files
 
 ![Audio Frequency Similarity Output](output.png)
 
+**Sample Similarity Score:** 0.160
+
 ### Understanding the Similarity Score
 
 - A score closer to **1** indicates more similar frequency magnitude patterns.
@@ -127,6 +129,13 @@ Helps identify and compare the frequency characteristics of two audio signals.
 - Introduce noise reduction and preprocessing.
 - Develop a simple web interface for audio uploads.
 - Improve comparison using time-frequency features such as spectrograms.
+
+## 📝 Conclusion
+
+This project demonstrates how FFT and Cosine Similarity can be used
+to compare the frequency characteristics of two audio signals.
+It provides both a numerical similarity score and a graphical
+representation for understanding the comparison.
 
 ## 👩‍💻 Author
 

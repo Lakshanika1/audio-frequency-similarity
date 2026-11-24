@@ -141,7 +141,7 @@ representation for understanding the comparison.
 
 **Lakshanika A P**
 
-Computer Science and Engineering Student
+B.E. Computer Science and Engineering
 
 ---
 

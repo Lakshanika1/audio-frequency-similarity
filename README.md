@@ -139,10 +139,12 @@ representation for understanding the comparison.
 
 ## 👩‍💻 Author
 
-**Lakshanika**
+**Lakshanika A P**
 
 Computer Science and Engineering Student
 
 ## 📄 License
 
 This project is developed for educational and learning purposes.
+
+⭐ If you find this project useful, consider giving the repository a star!                                                                           is this correct
